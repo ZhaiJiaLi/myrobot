@@ -1,0 +1,74 @@
+@import url(base.css);
+
+.identify-interface{
+    position: absolute;
+    background:#fdfcfc;
+    left:0;
+    right: 0;
+    top:0;
+    bottom: 0;
+}
+.identify-user{
+    width:2.95rem;
+    height: 2.96rem;
+    margin:1.86rem auto 0.29rem;
+}
+.identify-user img{
+    width:2.95rem;
+    height: 2.96rem;
+}
+.markedword{
+    font-size: 0.28rem;
+    font-family: "苹方 粗体";
+    text-align: center;
+    color:#33cf54;
+    line-height: 0.55rem;
+}
+.markedword2{
+    font-size: 0.22rem;
+    font-family: "苹方 粗体";
+    text-align: center;
+    color:#b6b5b5;
+    line-height: 0.45rem;
+}
+.input-box{
+    width: 5.32rem;
+    height: 0.63rem;
+    margin: 1.46rem auto;
+    border-bottom: 2px solid #eeeded;
+}
+.sign{
+    width:0.18rem;
+    height: 0.08rem;
+    background: #ffcb2e;
+    border-radius: 0.04rem;
+    float: left;
+    margin-top: 0.26rem;
+}
+.name-box{
+    width: 4.52rem;
+    height:100%;
+    margin-left: 0.22rem;
+    border:0;
+    outline: none;
+    float: left;
+}
+.clearbox{
+    width:0.1rem;
+    height: 0.22rem;
+    line-height: 0.22rem;
+    margin-right:0.5rem;
+    float: right;
+    margin:0.3rem 0.2rem 0 0;
+}
+.start-identify{
+    width:4.68rem;
+    height:0.7rem;
+    font-size: 0.24rem;
+    border: none;
+    color:#bebebe;
+    background:#f0efef;
+    margin: 2.25rem auto 0;
+    border-radius: 0.35rem;
+    display: block;
+}

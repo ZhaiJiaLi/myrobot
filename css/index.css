@@ -1,0 +1,58 @@
+@import url(base.css);
+.person{
+    position: absolute;
+    background:#f7f7f7;
+    left:0;
+    right: 0;
+    top:0;
+    bottom: 0;
+}
+.head-portrait{
+    width:2.6rem;
+    height: 2.6rem;
+    margin:2.04rem auto 0.67rem;
+}
+.head-portrait img{
+    width:2.6rem;
+    height: 2.6rem;
+}
+.titleword {
+    font-size: 0.44rem;
+    font-family: "San Francisco Display";
+    text-align: center;
+    color:#727272;
+    line-height: 0.35rem;
+}
+.handlogin{
+    width:4.68rem;
+    height:0.7rem;
+    font-size: 0.24rem;
+    border: none;
+    color:#fff;
+    background-image:-webkit-linear-gradient(left,#33d17b,#3de43d);
+    background-image:-moz-linear-gradient(left,#33d17b,#3de43d);
+    background-image:-ms-linear-gradient(left,#33d17b,#3de43d);
+    background-image:-o-linear-gradient(left,#33d17b,#3de43d);
+    background-image:linear-gradient(left,#33d17b,#3de43d);
+    margin: 4.24rem auto 0;
+    border-radius: 0.35rem;
+    display: block;
+    box-shadow:0 0.05rem 0.24rem 0.05rem #90e990;
+}
+.facelogin{
+    width:4.68rem;
+    height:0.7rem;
+    font-size: 0.24rem;
+    border: none;
+    color:#fff;
+    background-image:-webkit-linear-gradient(left,#60a2fd,#7dc3fe);
+    background-img:-moz-linear-gradient(left,#60a2fd,#7dc3fe);
+    background-img:-ms-linear-gradient(left,#60a2fd,#7dc3fe);
+    background-img:-o-linear-gradient(left,#60a2fd,#7dc3fe);
+    background-img:linear-gradient(left,#60a2fd,#7dc3fe);
+    margin: 0.22rem auto 0;
+    border-radius: 0.35rem;
+    display: block;
+    box-shadow:0 0.05rem 0.24rem 0.05rem #95c8f7;
+}
+

@@ -1,0 +1,61 @@
+@import url(base.css);
+.confirm-identify{
+    position: absolute;
+    left:0;
+    right: 0;
+    top:0;
+    bottom: 0;
+    background: #f7f7f7;
+}
+.conf-bcgpic{
+    width: 4.8rem;
+    height:3.1rem;
+    background: pink;
+    margin:4.64rem auto 0;
+    background: url("../img/sure.png") no-repeat center;
+    background-size:cover;
+    overflow: hidden;
+}
+.conf-bcgpic h3{
+    color:#97989a;
+    font-size: 0.26rem;
+    margin: 1.75rem auto 0;
+    text-align: center;
+}
+.select{
+    width: 3.8rem;
+    height:0.58rem;
+    margin:0.24rem auto 0;
+}
+.but-sure{
+    width:1.4rem;
+    height:0.57rem;
+    float: left;
+    background-image:-webkit-linear-gradient(left,#33d17b,#3de43d);
+    background-image:-moz-linear-gradient(left,#33d17b,#3de43d);
+    background-image:-ms-linear-gradient(left,#33d17b,#3de43d);
+    background-image:-o-linear-gradient(left,#33d17b,#3de43d);
+    background-image:linear-gradient(left,#33d17b,#3de43d);
+    box-shadow:0 0.05rem 0.24rem 0.05rem #90e990;
+    outline: none;
+    border:0;
+    text-align: center;
+    line-height: 0.57rem;
+    border-radius: 0.5rem;
+    color:#fff;
+}
+.but-abolish{
+    width:1.4rem;
+    height:0.57rem;
+    float: left;
+    background:#eeeeee;
+    outline: none;
+    border:0;
+    text-align: center;
+    line-height: 0.57rem;
+    float: right;
+    border-radius: 0.5rem;
+    color: rgba(58,220,80,0.5);
+}
+
+
