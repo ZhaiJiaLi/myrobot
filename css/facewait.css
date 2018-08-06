@@ -1,0 +1,46 @@
+@import url(base.css);
+.face-identify{
+    position: absolute;
+    left: 0;
+    right:0;
+    top:0;
+    bottom:0;
+}
+.idebox{
+    width: 3.76rem;
+    height:5.34rem;
+    background: #f7f7f7;
+    margin: 2rem auto 0;
+    border:0.06rem solid #efefef;
+}
+.face-identify h2{
+    width: 230px;
+    height:30px;
+    margin: 0rem auto 0;
+    font-size: 0.32rem;
+    font-family: "苹方 粗体";
+    color: #a1a1a1;
+    text-align: center;
+}
+.circle{
+    width:1.25rem;
+    height:0.18rem;
+    display: flex;
+    justify-content: space-between;
+    margin: 3.38rem auto 0.53rem;
+}
+.circle li{
+    width: 0.16rem;
+    height:0.16rem;
+    border-radius:0.08rem ;
+}
+.circle li:nth-child(1),.circle li:nth-child(5){
+    background: #d1efe3;
+}
+.circle li:nth-child(2),.circle li:nth-child(4){
+    background: #7cdab6;
+}
+.circle li:nth-child(3){
+    background: #25c587;
+}
+

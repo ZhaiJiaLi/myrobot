@@ -1,0 +1,23 @@
+@import url(base.css);
+.face-identify{
+    position: absolute;
+    left: 0;
+    right:0;
+    top:0;
+    bottom:0;
+}
+.idebox{
+    width: 3.76rem;
+    height:5.34rem;
+    background: #f7f7f7;
+    margin: 2rem auto 0;
+}
+.face-identify h2{
+    width: 200px;
+    height:30px;
+    margin: 3.5rem auto 0;
+    font-size: 0.32rem;
+    font-family: "苹方 粗体";
+    color: #a1a1a1;
+    text-align: center;
+}
