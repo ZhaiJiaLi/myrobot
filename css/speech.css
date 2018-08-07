@@ -1,0 +1,41 @@
+@import url(base.css);
+.bcg{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+    background:url("../img/touminbeijing.png") no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.bcg h3{
+    font-size: 0.26rem;
+    font-family: "苹方 粗体";
+    color:rgba(0,0,0,0.3);
+    margin-top: 0.3rem;
+}
+.pic{
+    width: 4.22rem;
+    height: 1.99rem;
+    margin: 4.83rem auto 0;
+}
+.pic img{
+    width: 4.22rem;
+}
+.compl{
+    width:4.68rem;
+    height:0.7rem;
+    font-size: 0.24rem;
+    border: none;
+    color:#fff;
+    background-image:-webkit-linear-gradient(left,#ffac32,#ffce37);
+    background-image:-moz-linear-gradient(left,#ffac32,#ffce37);
+    background-image:-ms-linear-gradient(left,#ffac32,#ffce37);
+    background-image:-o-linear-gradient(left,#ffac32,#ffce37);
+    background-image:linear-gradient(left,#ffac32,#ffce37);
+    margin:2.4rem auto 0;
+    border-radius: 0.35rem;
+    display: block;
+    box-shadow:0 0.05rem 0.24rem 0.1rem #f7db89;
+}
